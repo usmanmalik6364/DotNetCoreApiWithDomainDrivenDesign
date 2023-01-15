@@ -1,0 +1,17 @@
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\bin\Debug\net6.0\BuberDinner.InfraStructure.deps.json
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\bin\Debug\net6.0\BuberDinner.InfraStructure.dll
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\bin\Debug\net6.0\BuberDinner.InfraStructure.pdb
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\obj\Debug\net6.0\BuberDinner.InfraStructure.csproj.AssemblyReference.cache
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\obj\Debug\net6.0\BuberDinner.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\obj\Debug\net6.0\BuberDinner.InfraStructure.AssemblyInfoInputs.cache
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\obj\Debug\net6.0\BuberDinner.InfraStructure.AssemblyInfo.cs
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\obj\Debug\net6.0\BuberDinner.InfraStructure.csproj.CoreCompileInputs.cache
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\obj\Debug\net6.0\BuberDinner.InfraStructure.dll
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\obj\Debug\net6.0\refint\BuberDinner.InfraStructure.dll
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\obj\Debug\net6.0\BuberDinner.InfraStructure.pdb
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\obj\Debug\net6.0\ref\BuberDinner.InfraStructure.dll
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\bin\Debug\net6.0\BuberDinner.Application.dll
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\bin\Debug\net6.0\BuberDinner.Domain.dll
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\bin\Debug\net6.0\BuberDinner.Application.pdb
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\bin\Debug\net6.0\BuberDinner.Domain.pdb
+C:\ASP.netcore\DomainDrivenDesign\BuberDinner\BuberDinner.InfraStructure\obj\Debug\net6.0\BuberDinner.InfraStructure.csproj.CopyComplete
